@@ -1,0 +1,20 @@
+.icon-large {
+    width: 50px; 
+    height: 50px; 
+}
+
+.background {
+    width: 100vw;
+    height: 100vh;
+  }
+
+#info {
+    width: 120%;
+    margin-top: 10%;
+    height: 70%;    
+    position: absolute;
+    font-size: 8rex;
+    font-family: "Lucida Handwriting";  
+    text-align: center;
+    letter-spacing: 2px;
+}
