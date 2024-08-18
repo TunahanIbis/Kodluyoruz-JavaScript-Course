@@ -26,7 +26,9 @@
 <br>
 * It returns "<b>You Pass</b>" if the letter grade is not calculated as FF.
 * If the student is passing the lecture, the output text gets printed in green.
-![PassTest](https://github.com/user-attachments/assets/3204f943-2c01-4057-a35c-b65074b7f035)
+
+![PassTest](https://github.com/user-attachments/assets/d1841193-8dfa-49f2-aa98-43cde8d9964f)
+
 
 <br>
 
