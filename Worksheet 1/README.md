@@ -24,6 +24,7 @@
   0-50 --> FF
   
 <br>
+
 * It returns "<b>You Pass</b>" if the letter grade is not calculated as FF.
 
 * If the student is passing the lecture, the output text gets printed in green.
@@ -34,8 +35,7 @@
 <br>
 
 * It returns "<b>You Fail</b>" if the letter grade is FF.
-* 
+  
 * If the student is failing the lecturei then the output text gets printed in red.
+
 ![FailTest](https://github.com/user-attachments/assets/2d4281d7-30f0-4d85-9372-22715f24a9c4)
-
-
