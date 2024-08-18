@@ -34,7 +34,7 @@
 
 <br>
 
-* It returns "<b>You Pass</b>" if the letter grade is calculated as FF.
+* It returns "<b>You Fail</b>" if the letter grade is calculated as FF.
   
 * In this condition, the output text gets printed in red.
 
