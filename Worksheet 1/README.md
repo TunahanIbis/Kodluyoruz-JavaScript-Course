@@ -1,6 +1,6 @@
 # Student Portal
 
-<b>I have designed a little application that calculates the letter grade of the specified numerical grade.</b>
+<b>I have designed a little application that calculates the letter grade of the specified numeric grade.</b>
 
 ## Details
 * First of all, here are the corresponding letters of numeric grades:
