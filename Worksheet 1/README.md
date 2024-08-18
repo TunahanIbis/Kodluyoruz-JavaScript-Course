@@ -1,8 +1,14 @@
 # Student Portal
 
 * I have designed a little application that calculates the letter grade of the specified numerical grade.
-* It returns "You Fail" if the letter grade is calculated as F, and returns "You Pass" in other conditions.
-* If the student is passing the lecture, the output text gets printed in green.
-* If the student is failing the lecturei then the output text gets printed in red.
 
-![StudentPortalGIF](https://github.com/user-attachments/assets/dad2d8ca-886f-4988-aa2f-965a6d8c2184)
+# Details
+* It returns "You Pass" if the letter grade is not calculated as F.
+* If the student is passing the lecture, the output text gets printed in green.
+![PassTest](https://github.com/user-attachments/assets/a0cf0fc2-1a6c-43c2-9170-5ea2b6ec9473)
+
+* It returns "You Fail" if the letter grade is F.
+* If the student is failing the lecturei then the output text gets printed in red.
+![FailTest](https://github.com/user-attachments/assets/2d4281d7-30f0-4d85-9372-22715f24a9c4)
+
+
