@@ -1,7 +1,7 @@
-# Student Grade Portal
+# Student Portal
 
 ## Overview
-The Student Grade Portal is a simple web application that calculates a student's letter grade based on their numerical exam score. The application accepts user input for the student's name, lecture, and numerical grade, and displays the corresponding letter grade and pass/fail status. If the grade is below 50, the student is marked as failing, while those above 50 are marked as passing.
+The Student Portal is a simple web application that calculates a student's letter grade based on their numerical exam score. The application accepts user input for the student's name, lecture, and numerical grade, and displays the corresponding letter grade and pass/fail status. If the grade is below 50, the student is marked as failing, while those above 50 are marked as passing.
 
 This project uses basic HTML, JavaScript, and a little CSS for styling.
 
